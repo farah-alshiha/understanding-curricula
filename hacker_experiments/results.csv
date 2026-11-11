@@ -1,0 +1,5 @@
+experiment,final_val_accuracy,final_test_accuracy
+Standard,90.16,89.54
+Curriculum,89.42,89.12
+Random curriculum,87.42,86.77
+Quadratic curriculum,88.38,87.9
